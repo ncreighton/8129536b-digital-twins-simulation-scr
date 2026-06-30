@@ -29,6 +29,8 @@ Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, E
 
 Upgrade to the Pro version for **$39.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://propathacademy.gumroad.com/l/gquwls)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/bJeeVd26HaQA6xy7jCd000X)** — Secure checkout
 
 ## Installation
@@ -40,6 +42,7 @@ Upgrade to the Pro version for **$39.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/gquwls)
 
 ## License
 
